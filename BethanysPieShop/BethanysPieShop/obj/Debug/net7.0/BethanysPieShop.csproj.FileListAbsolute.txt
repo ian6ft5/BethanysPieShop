@@ -24,3 +24,7 @@ C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\Bet
 C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\obj\Debug\net7.0\BethanysPieShop.pdb
 C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\obj\Debug\net7.0\BethanysPieShop.genruntimeconfig.cache
 C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\obj\Debug\net7.0\ref\BethanysPieShop.dll
+C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\obj\Debug\net7.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\obj\Debug\net7.0\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\bin\Debug\net7.0\libman.json
+C:\Development\study\Pluralsight\ASP.NET Core 6 Fundamentals\BethanysPieShop\BethanysPieShop\bin\Debug\net7.0\BethanysPieShop.staticwebassets.runtime.json
