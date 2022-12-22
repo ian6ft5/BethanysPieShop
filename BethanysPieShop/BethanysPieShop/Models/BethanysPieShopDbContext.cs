@@ -4,7 +4,11 @@ namespace BethanysPieShop.Models
 {
     public class BethanysPieShopDbContext : DbContext
     {
-        DbSet<Category> Categories { get; set; }
-        DbSet<Pie> Pies { get; set; }
+        public BethanysPieShopDbContext(DbContextOptions<BethanysPieShopDbContext> options) : base(options)
+        {
+
+        }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Pie> Pies { get; set; }
     }
 }
