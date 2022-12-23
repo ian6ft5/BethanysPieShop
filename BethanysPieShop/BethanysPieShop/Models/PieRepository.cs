@@ -15,7 +15,7 @@ namespace BethanysPieShop.Models
         {
             get
             {
-                return _bethanysPieShopDbContext.Pies.Include(c => c.Category);
+                return _bethanysPieShopDbContext.Pies.Include(c => c.Category).OrderBy(p => p.Name);
             }
         }
 
@@ -23,7 +23,7 @@ namespace BethanysPieShop.Models
         {
             get
             {
-                return _bethanysPieShopDbContext.Pies.Include(c => c.Category).Where(p => p.IsPieOfTheWeek);
+                return _bethanysPieShopDbContext.Pies.Include(c => c.Category).Where(p => p.IsPieOfTheWeek).OrderBy(p => p.Name);
             }
         }
 
