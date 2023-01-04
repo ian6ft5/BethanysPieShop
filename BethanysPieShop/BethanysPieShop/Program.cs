@@ -15,10 +15,12 @@ builder.Services.AddDbContext<BethanysPieShopDbContext>(options =>
 });
 builder.Services.AddSession();
 builder.Services.AddHttpContextAccessor();
+builder.Services.AddRazorPages();
 var app = builder.Build();
 
 app.UseStaticFiles();
 app.UseSession();
+app.MapRazorPages();
 
 if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
