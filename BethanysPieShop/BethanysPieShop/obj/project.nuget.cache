@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8zokWPgmBzTFTXf2taAaGtwQxMpEK7iwOCjTUe5/mcxScJ8jGvLCZHB4KUVh8rVnCeeihLqUyyTrCPrQU/jLlQ==",
+  "dgSpecHash": "GYk5hEDyvZqMKT1OjwQg60GFIu6H4bXIndmSiL9sTXz2R37fWCc3rPImwkzgBMGNzUJF0dFwBZots0euQuwtag==",
   "success": true,
-  "projectFilePath": "C:\\Development\\study\\Pluralsight\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+  "projectFilePath": "C:\\Development\\study\\Pluralsight\\Courses\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irogers\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\irogers\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

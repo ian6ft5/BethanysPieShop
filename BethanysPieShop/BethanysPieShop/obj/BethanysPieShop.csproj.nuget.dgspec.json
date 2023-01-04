@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\study\\Pluralsight\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Development\\study\\Pluralsight\\Courses\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Development\\study\\Pluralsight\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Development\\study\\Pluralsight\\Courses\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\study\\Pluralsight\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Development\\study\\Pluralsight\\Courses\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Development\\study\\Pluralsight\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "C:\\Development\\study\\Pluralsight\\Courses\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\irogers\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\study\\Pluralsight\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "outputPath": "C:\\Development\\study\\Pluralsight\\Courses\\ASP.NET Core 6 Fundamentals\\BethanysPieShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
