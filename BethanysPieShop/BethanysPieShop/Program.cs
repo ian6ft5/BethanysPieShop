@@ -20,12 +20,12 @@ var app = builder.Build();
 
 app.UseStaticFiles();
 app.UseSession();
-app.MapRazorPages();
 
 if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 
 app.MapDefaultControllerRoute();//"{controller=Home}/<action=Index}/{id?}"
+app.MapRazorPages();
 
 DbInitializer.Seed(app);
 app.Run();
